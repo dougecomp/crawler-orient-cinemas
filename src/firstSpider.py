@@ -28,9 +28,9 @@ class SimpleSpider(Spider):
 		server = 'smtp.gmail.com'
 		port = 587
 
-		sender = 'douglaseusilva@gmail.com'
-		password = 'godofecomp2007.1'
-		recipient = 'douglaseusilva@gmail.com'
+		sender = 'seu@email.com'
+		password = 'senhaseuemail'
+		recipient = 'seu@email.com'
 		subject = 'Menor preço do moto g 2ª geração'
 		body = msg
 
